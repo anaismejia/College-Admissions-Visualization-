@@ -1,0 +1,46 @@
+body{
+	background-color: #e7e7e7;
+	font-family: "Georgia", serif;
+	font-weight: 100;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.story-header{
+	text-align: center;
+}
+
+.byline{
+	font-weight: bold;
+}
+
+.first-character{
+float: left;
+font-size: 400%;
+color: #cf142b;
+margin: -13px 7px -13px 0;
+}
+
+
+img{
+	width: 100%;
+}
+
+a{
+	color: black;
+}
+
+.photo-1-caption{
+	font-style: italic;
+}
+
+.photo-2-caption{
+	font-style: italic;
+}
+
+
+.footer{
+	font-size: 20px;
+	text-align: center;
+}
