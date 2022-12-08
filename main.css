@@ -25,7 +25,8 @@ margin: -13px 7px -13px 0;
 .logo{
 	width: 400px;
 	height: 400px; 
-	text-align: center;
+	margin-left: auto;
+	margin-right: auto; 
 }
 
 img{
